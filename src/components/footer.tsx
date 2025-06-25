@@ -12,7 +12,7 @@ export default function Footer() {
     >
       <div className="container mx-auto px-4 text-center">
         <p className="text-sm md:text-base font-light">
-          © {new Date().getFullYear()} Amanda de Freitas. Todos os direitos reservados.
+          © {new Date().getFullYear()} Amanda de Freitas. All rights reserved.
         </p>
       </div>
     </motion.footer>

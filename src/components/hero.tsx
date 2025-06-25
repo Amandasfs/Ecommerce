@@ -52,10 +52,10 @@ export default function HeroCarousel() {
           className="text-center text-white"
         >
           <h1 className="text-4xl md:text-6xl font-bold drop-shadow-lg mb-6">
-            Estilo que Inspira
+            Style that Inspires
           </h1>
           <button className="bg-verde hover:bg-marrom text-white font-medium px-6 py-3 rounded-xl shadow-lg transition duration-300">
-            Comprar Agora
+            Buy Now
           </button>
         </motion.div>
       </div>
